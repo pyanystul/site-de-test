@@ -1,0 +1,31 @@
+/* ====================================================================================COUNTER===========================
+.general {
+    display: flex;
+   
+    justify-content: center;
+
+margin-top: 50px;
+}
+#minus{
+    margin: 0px 10px;
+}
+#afisare{
+
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+  
+
+}
+#afisareRosie{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    color: red; display: none;
+
+    margin-top: 30px;
+
+}
+====================================================================================COUNTER=========================== */
+
+
